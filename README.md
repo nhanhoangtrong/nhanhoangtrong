@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nhanhoangtrong
 - 👀 I’m interested in application development
-- 🌱 I’m currently work as fullstack blockchain engineer
+- 🌱 I’m currently work as software engineer
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/hoangtrongnhan)
 
 <!---
